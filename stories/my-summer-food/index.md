@@ -25,7 +25,7 @@ This story comes from Michelle Dombrowski, who grew up in Milwaukee, Wisconsin, 
 %}
 
 
-## Something more specific
+## Summer Food and Festivities
 Summer in Wisconsin was never just about weather. It was a change in rhythm, mood, and most of all, in the foods that defined her childhood. The arrival of warm days meant festivals, family gatherings, and traditions that revolved around simple but meaningful meals. She never knew the food traditions she grew up with were so regional, until she moved away and realized how much they meant to her. She learned how these traditions were instrumental in forming who she is today. 
 
 
