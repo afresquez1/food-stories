@@ -12,7 +12,7 @@ tags:
   - Family
 ---
 
-# Generic Story Title
+# Christmas Tamales and Family Ties
 This is a story about a girl named Lucky, just kidding this is a story about my Aunt who makes the best tamales in New Mexico. I may be baised, but to me, they are the best tamales I have ever had. Raised in Cubero, NM she has crafted a recipe to be remembered for generations. 
 {% include figure.html
   class="right"
