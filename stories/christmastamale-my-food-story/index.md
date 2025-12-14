@@ -1,6 +1,6 @@
 ---
 title: Christmas Tamales and the Labor of Love
-author: Fred Gibbs
+author: Ashley Fresquez
 location: Cubero, NM
 thumbnail: bbq.png
 summary: Christmas tamales for the family near and far.
