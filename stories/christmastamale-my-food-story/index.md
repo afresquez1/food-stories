@@ -1,20 +1,19 @@
 ---
-title: My First BBQ
+title: Christmas Tamales and the Labor of Love
 author: Fred Gibbs
-location: Durham, NC
+location: Cubero, NM
 thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
+summary: Christmas tamales for the family near and far.
 date: 2025-08-01
 layout: base
 tags:
-  - BBQ
-  - cookout
-  - community
+  - Tamale
+  - Christmas
+  - Family
 ---
 
 # Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
-
+THis is a story about a girl named Lucky, just kidding this is a story about my Aunt who makes the best tamales in New Mexico. I may be baised, but to me, they are the best tamales I have ever had. Raised in Cubero, NM she has crafted a recipe to be remembered for generations. 
 {% include figure.html
   class="right"
   width="40%"
@@ -24,7 +23,7 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
 
 
 ## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+Beatirice Chavez is a woman who has always put her family first. She is a home maker, a wife, an auntie, a sister and a grandmother. To her, family is the key to living a happy life. In order to keep the family coming together and bonded, she makes dinner regularly but specifically she makes her red chile tamales at Christmans time. 
 
 
 {% include audio.html
@@ -32,13 +31,17 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## Analysis: Re Chile, Masa, Pork, and Beef?
 
-Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
+Analysis of Interview: 
 
-The story also reflects the idea of **embodied knowledge and generational transmission**. The pitmaster’s line about learning from his grandfather and letting “the meat tell you when it’s ready” shows that expertise here isn’t formal or codified; it’s experiential and relational. In class, we’ve talked about how food work often relies on skills that are undervalued or unrecorded — the kinds of knowledge passed along by doing, by apprenticeship, by memory. In this sense, barbecue exemplifies what we might call *vernacular expertise*: a tradition maintained through labor, observation, and care, rather than through institutional authority.
+After listening to my Aunts story about her homemade Tamales, I have acknowledged the generational gap and how much things have changed over 40+ years. A woman from my Aunts generation takes pride in being a home maker and affirms her identity through how well she takes care of her family. Although through economical struggles they adapted and took on jobs while continuing to take care of their homes, it was more rare for women to be in the work force 40 years ago. Today, women are a major part of the work force and household duties should be shared by both working partners since both are contributing financially. In the past it would be very rare if you found a man in the kitchen cooking tamales. These gender roles are no longer as relevant in today's society.Some households may even have the dad/husband as the primary stay at home parent while the mom/wife goes to work and is the breadwinner. 
 
-When the narrator mentions the regional sauces — vinegar, mustard, tomato — and notes that each corresponds to a different part of the South, the story expands into a meditation on **regional identity and historical layering**. As we’ve read, those variations aren’t just matters of taste but markers of geography, migration, and cultural blending. The acknowledgment of Indigenous and African roots gestures toward the deeper and often erased histories embedded in “Southern” foodways. What feels like a casual backyard gathering is, on another level, the product of centuries of adaptation, exchange, and inequality.
+Having a stay at home parent can create a sense of comfort for all who are in the household  because they have the time to produce better meals because they have more time to create them, they also have a calmer demeanor because they are not trying to do two full time jobs (their career and a homemaker), and they can all around focus on the needs of their families 100%. In today's economy and society in general, I feel that living off one income is not possible for many families, and it is a luxury that many have to go without. For my Aunt, she loved having her family around her and providing a home cooked meal for them. She makes her tamales not only for Christmas day, but she also makes dozens that she gives to her family as Christmas presents because so many of us love her tamales.
 
-Finally, the closing reflection — that the barbecue was “bigger than one meal” and “about belonging” — aligns with our discussions about **food as cultural memory**. The student recognizes that what endures isn’t just the recipe or the flavor, but the shared experience: the smoke, the labor, the crowd, the sense of continuity. In that moment, the story illustrates how oral histories capture what archives often miss — the *ephemeral* parts of culture that make history feel alive. Through sound, emotion, and storytelling, this single barbecue becomes a microhistory of American food itself: regional yet shared, ordinary yet full of meaning.
+Tamales are one of the oldest dishes that are still recreated, they trace all the way back to the Aztecs. Tamales are a part of New Mexican culture because of our red chile, but they have come from Mesoamerica where they were authentic to those people at that time. Our Red Chile beef tamales are authentic to my family right now, because they are passed down generationally through tradition. I see tamales as both expressive and historically authentic. Each of these aspects of authenticity matter because each of these tamales creations were made in a specific place, at a specific time, for a specific community through their own methods creating an authentic food experience.
+
+New Mexico is a special state in terms of food and culture. We have blended Mexican food, Native American food, and Anglo American food to create a food genre of our own. We have cultivated our own identity and created original associations of flavors with our home state. My Aunt has taken her recipe and made it authentic to herself by replacing the traditional pork as the protein in the tamales and instead used  beef. This doesn't make her tamales any less authentic, but rather more expressive of her own personal expression. 
+     
+
 
