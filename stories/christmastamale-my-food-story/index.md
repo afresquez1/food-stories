@@ -2,7 +2,7 @@
 title: Christmas Tamales and the Labor of Love
 author: Ashley Fresquez
 location: Cubero, NM
-thumbnail: bbq.png
+thumbnail: Navidad en familia y tradición.png
 summary: Christmas tamales for the family near and far.
 date: 2025-08-01
 layout: base
